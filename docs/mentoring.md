@@ -43,6 +43,8 @@ Mentors:
 * [@blkperl](https://github.com/blkperl) (William)
 * [@JPZ13](https://github.com/JPZ13) (J.P.)
 * [@tczhao](https://github.com/tczhao) (Tianchu)
+* [@vamshi118](https://github.com/vamshi1188) (vamshi)
+
 
 ## How to Participate Google Summer of Code
 
